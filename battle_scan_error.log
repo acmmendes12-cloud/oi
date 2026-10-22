@@ -1,0 +1,13 @@
+[BattleScan] ERRO em pbScanFrame: TypeError: Argument 5: Expected fixnum
+Section005:25:in `draw_text'
+Section005:25:in `draw_text'
+Section401:111:in `initialize'
+Section401:220:in `new'
+Section401:220:in `pbScanFrame'
+Section401:72:in `tick'
+Section401:88:in `update'
+[Elite Battle: DX] Scene Camera.rb:128:in `block in wait'
+[Elite Battle: DX] Scene Camera.rb:126:in `times'
+[Elite Battle: DX] Scene Camera.rb:126:in `wait'
+[Elite Battle: DX] Scene Battle.rb:224:in `block in startSceneAnimation'
+[Elite Battle: DX] Scene Battle.rb:199:in `each'

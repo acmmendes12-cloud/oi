@@ -1,0 +1,1418 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[BLACKAUGURITE]
+Name = Black Augurite
+NamePlural = Black Augurites
+Pocket = 1
+Price = 2100
+FieldUse = OnPokemon
+Flags = Fling_30,EvolutionStone
+Description = A glassy black stone that produces a sharp cutting edge when split. It’s loved by a certain Pokémon.
+#-------------------------------
+[PEATBLOCK]
+Name = Peat Block
+NamePlural = Peat Blocks
+Pocket = 1
+Price = 2100
+FieldUse = OnPokemon
+Flags = Fling_30,EvolutionStone
+Description = A block of muddy material that is for fuel. It’s loved by a certain Pokémon.
+#-------------------------------
+[LINKINGCORD]
+Name = Linking Cord
+NamePlural = Linking Cords
+Pocket = 1
+Price = 2100
+FieldUse = OnPokemon
+Flags = Fling_30,EvolutionStone
+Description = A string exuding a mysterious energy of connection. It’s loved by certain Pokémon.
+#-------------------------------
+[ADAMANTCRYSTAL]
+Name = Adamant Crystal
+NamePlural = Adamant Crystals
+Pocket = 1
+Price = 20000
+SellPrice = 0
+Flags = Fling_60
+Description = When held by Dialga, this large, glowing gem wells with power and allows the Pokémon to change form.
+#-------------------------------
+[LUSTROUSGLOBE]
+Name = Lustrous Globe
+NamePlural = Lustrous Globes
+Pocket = 1
+Price = 20000
+SellPrice = 0
+Flags = Fling_60
+Description = When held by Palkia, this large, glowing orb wells with power and allows the Pokémon to change form.
+#-------------------------------
+[LEGENDPLATE]
+Name = Legend Plate
+NamePlural = Legend Plates
+Pocket = 1
+Price = 20000
+SellPrice = 0
+Flags = Fling_90,Plate
+Description = A stone tablet to be held by a certain Pokémon. It the holder the power of every type there is.
+#-------------------------------
+[BLANKPLATE]
+Name = Blank Plate
+NamePlural = Blank Plates
+Pocket = 1
+Price = 10000
+SellPrice = 500
+Flags = Fling_90,Plate
+Description = An item to be held by a Pokémon. It is a stone tablet that boosts the power of Normal-type moves.
+#-------------------------------
+[HOPOBERRY]
+Name = Hopo Berry
+NamePlural = Hopo Berries
+Pocket = 5
+Price = 20
+Flags = Berry,Fling_10,NaturalGift_FIGHTING_80
+Description = A Berry that can be fed to a Pokémon to restore its PP.
+#-------------------------------
+[GRISEOUSCORE]
+Name = Griseous Core
+NamePlural = Griseous Cores
+Pocket = 1
+Price = 20000
+SellPrice = 0
+Flags = Fling_60
+Description = When held by Giratina, this large, glowing gem wells with power and allows the Pokémon to change form.
+#-------------------------------
+[HISUIANPOKEBALL]
+Name = Poké Ball
+NamePlural = Poké Balls
+Pocket = 3
+Price = 500
+BattleUse = OnFoe
+Flags = PokeBall
+Description = A mysterious ball that can be thrown at wild Pokémon in order to catch them.
+#-------------------------------
+[HISUIANGREATBALL]
+Name = Great Ball
+NamePlural = Great Balls
+Pocket = 3
+Price = 900
+BattleUse = OnFoe
+Flags = PokeBall
+Description = A mysterious ball that provides a higher success catch rate than a standard Poké Ball.
+#-------------------------------
+[HISUIANULTRABALL]
+Name = Ultra Ball
+NamePlural = Ultra Balls
+Pocket = 3
+Price = 1500
+BattleUse = OnFoe
+Flags = PokeBall
+Description = A mysterious ball that provides an even higher success catch rate than a Great Ball does.
+#-------------------------------
+[FEATHERBALL]
+Name = Feather Ball
+NamePlural = Feather Balls
+Pocket = 3
+Price = 700
+BattleUse = OnFoe
+Flags = PokeBall
+Description = A ball that flies fast and true ideal for catching nimble Pokémon or Pokémon that fly high in the air.
+#-------------------------------
+[WINGBALL]
+Name = Wing Ball
+NamePlural = Wing Balls
+Pocket = 3
+Price = 1000
+BattleUse = OnFoe
+Flags = PokeBall
+Description = An improvement on the original Feather Ball design. It has a higher success rate than the Feather Ball.
+#-------------------------------
+[JETBALL]
+Name = Jet Ball
+NamePlural = Jet Balls
+Pocket = 3
+Price = 1500
+BattleUse = OnFoe
+Flags = PokeBall
+Description = The ultimate iteration of the Feather Ball. It has an even higher success rate than the Wing Ball does.
+#-------------------------------
+[HISUIANHEAVYBALL]
+Name = Heavy Ball
+NamePlural = Heavy Balls
+Pocket = 3
+Price = 700
+BattleUse = OnFoe
+Flags = PokeBall
+Description = A ball that is too heavy to throw, but it is highly effective to an unsuspecting Pokémon.
+#-------------------------------
+[LEADENBALL]
+Name = Leaden Ball
+NamePlural = Leaden Balls
+Pocket = 3
+Price = 1000
+BattleUse = OnFoe
+Flags = PokeBall
+Description = An improvement on the original Heavy Ball design. It has a higher success rate than the Heavy Ball.
+#-------------------------------
+[GIGATONBALL]
+Name = Gigaton Ball
+NamePlural = Gigaton Balls
+Pocket = 3
+Price = 1500
+BattleUse = OnFoe
+Flags = PokeBall
+Description = The ultimate iteration of the Heavy Ball. It has an even higher success rate than the Leaden Ball does.
+#-------------------------------
+[ORIGINBALL]
+Name = Origin Ball
+NamePlural = Origin Balls
+Pocket = 3
+Price = 0
+BattleUse = OnFoe
+Flags = PokeBall
+Description = An irreplicable Poké Ball that was once used to catch the frenzied Pokémon at the Temple of Sinnoh.
+#-------------------------------
+[STRANGEBALL]
+Name = Strange Ball
+NamePlural = Strange Balls
+Pocket = 3
+Price = 0
+BattleUse = OnFoe
+Flags = PokeBall
+Description = A strange looking Poke Ball that arrived from the past Sinnoh.
+#-------------------------------
+[AUSPICIOUSARMOR]
+Name = Auspicious Armor
+NamePlural = Auspicious Armors
+PortionName = set of Auspicious Armor
+PortionNamePlural = sets of Auspicious Armor
+Pocket = 1
+Price = 3000
+FieldUse = OnPokemon
+Flags = EvolutionStone,Fling_30
+Description = A peculiar set of armor that can make a certain Pokémon evolve. Auspicious wishes live within it.
+#-------------------------------
+[MALICIOUSARMOR]
+Name = Malicious Armor
+NamePlural = Malicious Armors
+PortionName = set of Malicious Armor
+PortionNamePlural = sets of Malicious Armor
+Pocket = 1
+Price = 3000
+FieldUse = OnPokemon
+Flags = EvolutionStone,Fling_30
+Description = A peculiar set of armor that can make a certain Pokémon evolve. Malicious will lurks within it.
+#-------------------------------
+[SCROLLOFDARKNESS]
+Name = Scroll of Darkness
+NamePlural = Scroll of Darkness
+Pocket = 1
+Price = 0
+FieldUse = OnPokemon
+Flags = EvolutionStone,Fling_30
+Description = A scroll that evolves certain Pokémon. Written on it are the true secrets of the path of darkness.
+#-------------------------------
+[SCROLLOFWATERS]
+Name = Scroll of Waters
+NamePlural = Scroll of Waters
+Pocket = 1
+Price = 0
+FieldUse = OnPokemon
+Flags = EvolutionStone,Fling_30
+Description = A scroll that evolves certain Pokémon. Written on it are the true secrets of the path of water.
+#-------------------------------
+[LEADERSCREST]
+Name = Leader's Crest
+NamePlural = Leader's Crests
+Pocket = 1
+Price = 3000
+Flags = Fling_30
+Description = A shard of what appears to be an old blade of some sort. It is held only by a head of certain Pokémon group.
+#-------------------------------
+[BOOSTERENERGY]
+Name = Booster Energy
+NamePlural = Booster Energies
+PortionName = capsule of Booster Energy
+PortionNamePlural = capsules of Booster Energy
+Pocket = 1
+Price = 0
+Flags = Fling_30
+Description = An item to be held by Pokémon with certain Abilities. It boosts the strength of the Pokémon.
+#-------------------------------
+[ABILITYSHIELD]
+Name = Ability Shield
+NamePlural = Ability Shields
+Pocket = 1
+Price = 20000
+Flags = Fling_30
+Description = An item to be held by a Pokémon. This shield protects the holder from having its Ability changed by others.
+#-------------------------------
+[CLEARAMULET]
+Name = Clear Amulet
+NamePlural = Clear Amulets
+Pocket = 1
+Price = 30000
+Flags = Fling_30
+Description = An item to be held by a Pokémon. It protects the holder from having its stats lowered.
+#-------------------------------
+[MIRRORHERB]
+Name = Mirror Herb
+NamePlural = Mirror Herbs
+Pocket = 1
+Price = 30000
+Flags = Fling_30
+Description = An item to be held by a Pokémon. This herb will allow the holder to mirror an opponent's stat increases once.
+#-------------------------------
+[PUNCHINGGLOVE]
+Name = Punching Glove
+NamePlural = Punching Gloves
+Pocket = 1
+Price = 15000
+Flags = Fling_30
+Description = An item to be held by a Pokémon. It boosts the holder's punching moves and prevents direct contact.
+#-------------------------------
+[COVERTCLOAK]
+Name = Covert Cloak
+NamePlural = Covert Cloaks
+Pocket = 1
+Price = 20000
+Flags = Fling_30
+Description = An item to be held by a Pokémon. It conceals the holder, protecting it from move's additional effects.
+#-------------------------------
+[LOADEDDICE]
+Name = Loaded Dice
+NamePlural = Loaded Dices
+Pocket = 1
+Price = 20000
+Flags = Fling_30
+Description = An item to be held by a Pokémon. It ensures the holder's multistrike moves hit more times.
+#-------------------------------
+[GIMMIGHOULCOIN]
+Name = Gimmighoul Coin
+NamePlural = Gimmighoul Coins
+Pocket = 1
+Price = 0
+Flags = Fling_10
+Description = An item that accidentally dropped by a Pokémon. It seems that Gimmighoul treasure and hoard these.
+#-------------------------------
+[TINYBAMBOOSHOOT]
+Name = Tiny Bamboo Shoot
+NamePlural = Tiny Bamboo Shoots
+Pocket = 1
+Price = 1500
+Flags = Fling_30
+Description = A small and rare bamboo shoot. It's quite popular with a certain class of gourmands.
+#-------------------------------
+[BIGBAMBOOSHOOT]
+Name = Big Bamboo Shoot
+NamePlural = Big Bamboo Shoots
+Pocket = 1
+Price = 6000
+Flags = Fling_30
+Description = A large and rare bamboo shoot. It's extremely popular with a certain class of gourmands.
+#-------------------------------
+[ROTOMPHONE]
+Name = Rotom Phone
+NamePlural = Rotom Phones
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = The latest model of smartphone. A Rotom lives within it, and it can be used to run all sorts of handy apps.
+#-------------------------------
+[SCARLETBOOK]
+Name = Scarlet Book
+NamePlural = Scarlet Books
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A record of the Heath's expedition on the Great Crater of Paldea. It has the name "Sada" written on it.
+#-------------------------------
+[VIOLETBOOK]
+Name = Violet Book
+NamePlural = Violet Books
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A record of the Heath's expedition on the Great Crater of Paldea. It has the name "Turo" written on it.
+#-------------------------------
+[HEALTHMOCHI]
+Name = Health Mochi
+NamePlural = Health Mochi
+Pocket = 2
+Price = 250
+FieldUse = OnPokemon
+Flags = Fling_20
+Description = A mochi cake with Berries kneaded into its dough. It increases base points for a Pokémon's HP stat.
+#-------------------------------
+[MUSCLEMOCHI]
+Name = Muscle Mochi
+NamePlural = Muscle Mochi
+Pocket = 2
+Price = 250
+FieldUse = OnPokemon
+Flags = Fling_20
+Description = A mochi cake with Berries kneaded into its dough. It increases base points for a Pokémon's Attack stat.
+#-------------------------------
+[RESISTMOCHI]
+Name = Resist Mochi
+NamePlural = Resist Mochi
+Pocket = 2
+Price = 250
+FieldUse = OnPokemon
+Flags = Fling_20
+Description = A mochi cake with Berries kneaded into its dough. It increases base points for a Pokémon's Defense stat.
+#-------------------------------
+[GENIUSMOCHI]
+Name = Genius Mochi
+NamePlural = Genius Mochi
+Pocket = 2
+Price = 250
+FieldUse = OnPokemon
+Flags = Fling_20
+Description = A mochi cake with Berries kneaded into its dough. It increases base points for a Pokémon's Sp. Atk stat.
+#-------------------------------
+[CLEVERMOCHI]
+Name = Clever Mochi
+NamePlural = Clever Mochi
+Pocket = 2
+Price = 250
+FieldUse = OnPokemon
+Flags = Fling_20
+Description = A mochi cake with Berries kneaded into its dough. It increases base points for a Pokémon's Sp. Def stat.
+#-------------------------------
+[SWIFTMOCHI]
+Name = Swift Mochi
+NamePlural = Swift Mochi
+Pocket = 2
+Price = 250
+FieldUse = OnPokemon
+Flags = Fling_20
+Description = A mochi cake with Berries kneaded into its dough. It increases base points for a Pokémon's Speed stat.
+#-------------------------------
+[FRESHSTARTMOCHI]
+Name = Fresh-Start Mochi
+NamePlural = Fresh-Start Mochi
+Pocket = 2
+Price = 250
+FieldUse = OnPokemon
+Flags = Fling_20
+Description = A mochi cake with Berries kneaded into its dough. It causes a Pokémon to lose all its base points.
+#-------------------------------
+[FAIRYFEATHER]
+Name = Fairy Feather
+NamePlural = Fairy Feathers
+Pocket = 1
+Price = 3000
+SellPrice = 750
+Flags = Fling_20
+Description = An item to be held by a Pokémon. It boosts the power of the holder's Fairy-type moves.
+#-------------------------------
+[SYRUPYAPPLE]
+Name = Syrupy Apple
+NamePlural = Syrupy Apples
+Pocket = 1
+Price = 2200
+SellPrice = 550
+BPPrice = 5
+FieldUse = OnPokemon
+Flags = EvolutionStone,Fling_30
+Description = A peculiar apple that can make a certain species of Pokémon evolve. It's exceptionally syrupy.
+#-------------------------------
+[UNREMARKABLETEACUP]
+Name = Unremarkable Teacup
+NamePlural = Unremarkable Teacups
+Pocket = 1
+Price = 1500
+SellPrice = 400
+BPPrice = 5
+FieldUse = OnPokemon
+Flags = EvolutionStone,Fling_80
+Description = A peculiar cracked teacup that can make a certain species of Pokémon evolve. It makes delicious tea.
+#-------------------------------
+[MASTERPIECETEACUP]
+Name = Masterpiece Teacup
+NamePlural = Masterpiece Teacups
+Pocket = 1
+Price = 1500
+SellPrice = 9500
+BPPrice = 5
+FieldUse = OnPokemon
+Flags = EvolutionStone,Fling_80
+Description = A peculiar chipped teacup that can make a certain species of Pokémon evolve. It makes delicious tea.
+#-------------------------------
+[WELLSPRINGMASK]
+Name = Wellspring Mask
+NamePlural = Wellspring Masks
+Pocket = 1
+Price = 0
+Flags = Fling_60
+Description = A carved wooden mask to be held by Ogerpon. It allows Ogerpon to wield the Water type during battle.
+#-------------------------------
+[HEARTHFLAMEMASK]
+Name = Hearthflame Mask
+NamePlural = Hearthflame Masks
+Pocket = 1
+Price = 0
+Flags = Fling_60
+Description = A carved wooden mask to be held by Ogerpon. It allows Ogerpon to wield the Fire type during battle.
+#-------------------------------
+[CORNERSTONEMASK]
+Name = Cornerstone Mask
+NamePlural = Cornerstone Masks
+Pocket = 1
+Price = 0
+Flags = Fling_60
+Description = A carved wooden mask to be held by Ogerpon. It allows Ogerpon to wield the Rock type during battle.
+#-------------------------------
+[TEALMASK]
+Name = Teal Mask
+NamePlural = Teal Masks
+Pocket = 8
+Price = 0
+Flags = KeyItem,Fling_60
+Description = A teal mask patterned after the face of an ogre. Dropped by Ogerpon after visiting the Festival of Masks.
+#-------------------------------
+[METALALLOY]
+Name = Metal Alloy
+NamePlural = Metal Alloys
+PortionName = hunk of Metal Alloy
+PortionNamePlural = hunks of Metal Alloy
+Pocket = 1
+Price = 3000
+SellPrice = 1500
+BPPrice = 8
+FieldUse = OnPokemon
+Flags = EvolutionStone,Fling_30
+Description = A peculiar metal that can make certain species of Pokémon evolve. It is composed of many layers.
+#-------------------------------
+[INDIGODISK]
+Name = Indigo Disk
+NamePlural = Indigo Disks
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A mysterious disk with an indigo shine to it, given by the Top Champion. It seems to be tied to Area Zero.
+#-------------------------------
+[MYTHICALPECHABERRY]
+Name = Mythical Pecha Berry
+NamePlural = Mythical Pecha Berries
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A Pecha Berry of the highest quality. It's one of every a few years berry that carefully tended by an expert.
+#-------------------------------
+[SYNCHROMACHINE]
+Name = Synchro Machine
+NamePlural = Synchro Machines
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A device that synchronizes your mind and feelings with your Pokémon's as one. It's still a prototype—hence.
+#-------------------------------
+[METEORITE]
+Name = Meteorite
+NamePlural = Meteorites
+Pocket = 8
+Price = 0
+FieldUse = OnPokemon
+Flags = KeyItem
+Description = A rock that fell to earth from space. It allows a certain species of Pokémon to change forms.
+#-------------------------------
+[BRIARSBOOK]
+Name = Briar's Book
+NamePlural = Briar's Books
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A proof copy of the exploration notes, along with Briar's thoughts covering the Area Zero Underdepths.
+#-------------------------------
+# Pokemon Legends Z-A
+#-------------------------------
+[CLEFABLITE]
+Name = Clefablite
+NamePlural = Clefablites
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Clefable hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[VICTREEBELITE]
+Name = Victreebelite
+NamePlural = Victreebelites
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Victreebel hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[STARMINITE]
+Name = Starminite
+NamePlural = Starminites
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Starmie hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[DRAGONINITE]
+Name = Dragoninite
+NamePlural = Dragoninites
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Dragonite hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[MEGANIUMITE]
+Name = Meganiumite
+NamePlural = Meganiumites
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Meganium hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[FERALIGITE]
+Name = Feraligite
+NamePlural = Feraligites
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Feraligatr hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[SKARMORITE]
+Name = Skarmorite
+NamePlural = Skarmorites
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Skarmory hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[FROSLASSITE]
+Name = Froslassite
+NamePlural = Froslassites
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Froslass hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[EMBOARITE]
+Name = Emboarite
+NamePlural = Emboarites
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Haven Emboar hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[EXCADRITE]
+Name = Excadrite
+NamePlural = Excadrites
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Haven Excadrill hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[SCOLIPITE]
+Name = Scolipite
+NamePlural = Scolipites
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Scolipede hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[SCRAFTINITE]
+Name = Scraftinite
+NamePlural = Scraftinites
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Scrafty hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[EELEKTROSSITE]
+Name = Eelektrossite
+NamePlural = Eelektrossites
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Eelektross hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[CHANDELURITE]
+Name = Chandelurite
+NamePlural = Chandelurites
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Chandelure hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[CHESNAUGHTITE]
+Name = Chesnaughtite
+NamePlural = Chesnaughtites
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Chesnaught hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[DELPHOXITE]
+Name = Delphoxite
+NamePlural = Delphoxites
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Delphox hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[GRENINJITE]
+Name = Greninjite
+NamePlural = Greninjites
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Greninja hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[PYROARITE]
+Name = Pyroarite
+NamePlural = Pyroarites
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Pyroar hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[FLOETTITE]
+Name = Floettite
+NamePlural = Floettites
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have special Floette hold it to Mega Evolve.
+#-------------------------------
+[MALAMARITE]
+Name = Malamarite
+NamePlural = Malamarites
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Malamar hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[BARBARACITE]
+Name = Barbaracite
+NamePlural = Barbaracites
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Barbaracle hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[DRAGALGITE]
+Name = Dragalgite
+NamePlural = Dragalgites
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Dragalge hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[HAWLUCHANITE]
+Name = Hawluchanite
+NamePlural = Hawluchanites
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Hawlucha hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[ZYGARDITE]
+Name = Zygardite
+NamePlural = Zygardites
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Complete Forme Zygarde hold it to Mega Evolve.
+#-------------------------------
+[DRAMPANITE]
+Name = Drampanite
+NamePlural = Drampanites
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Drampa hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[FALINKSITE]
+Name = Falinksite
+NamePlural = Falinksites
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Falinks hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[MEGASHARD]
+Name = Mega Shard
+NamePlural = Mega Shards
+Pocket = 1
+Price = 0
+Description = A mysterious shard found by smashing Mega Crystals. It seems that some people collect these shards.
+#-------------------------------
+[REDCANARIPLUSHLV1]
+Name = Red Canari Plush
+NamePlural = Red Canari Plushies
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A Canari plush holding a red charm. It slightly boosts the Exp. Points that Pokémon can get.
+#-------------------------------
+[REDCANARIPLUSHLV2]
+Name = Red Canari Plush
+NamePlural = Red Canari Plushies
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A Canari plush holding a red charm. It boosts the Exp. Points that Pokémon can get.
+#-------------------------------
+[REDCANARIPLUSHLV3]
+Name = Red Canari Plush
+NamePlural = Red Canari Plushies
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A Canari plush holding a red charm. It greatly boosts the Exp. Points that Pokémon can get.
+#-------------------------------
+[GOLDCANARIPLUSHLV1]
+Name = Gold Canari Plush
+NamePlural = Gold Canari Plushies
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A Canari plush holding a gold charm. It slightly increases the battle's prize money you get.
+#-------------------------------
+[GOLDCANARIPLUSHLV2]
+Name = Gold Canari Plush
+NamePlural = Gold Canari Plushies
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A Canari plush holding a gold charm. It increases the battle's prize money you get.
+#-------------------------------
+[GOLDCANARIPLUSHLV3]
+Name = Gold Canari Plush
+NamePlural = Gold Canari Plushies
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A Canari plush holding a gold charm. It greatly increases the battle's prize money you get.
+#-------------------------------
+[PINKCANARIPLUSHLV1]
+Name = Pink Canari Plush
+NamePlural = Pink Canari Plushies
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A Canari plush holding a pink charm. It slightly increases the number of Mega Shards you get.
+#-------------------------------
+[PINKCANARIPLUSHLV2]
+Name = Pink Canari Plush
+NamePlural = Pink Canari Plushies
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A Canari plush holding a pink charm. It increases the number of Mega Shards you get.
+#-------------------------------
+[PINKCANARIPLUSHLV3]
+Name = Pink Canari Plush
+NamePlural = Pink Canari Plushies
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A Canari plush holding a pink charm. It greatly increases the number of Mega Shards you get.
+#-------------------------------
+[GREENCANARIPLUSHLV1]
+Name = Green Canari Plush
+NamePlural = Green Canari Plushies
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A Canari plush holding a green charm. It makes you a little less likely to black out from taking damage.
+#-------------------------------
+[GREENCANARIPLUSHLV2]
+Name = Green Canari Plush
+NamePlural = Green Canari Plushies
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A Canari plush holding a green charm. It makes you a less likely to black out from taking damage.
+#-------------------------------
+[GREENCANARIPLUSHLV3]
+Name = Green Canari Plush
+NamePlural = Green Canari Plushies
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A Canari plush holding a green charm. It makes you a lot less likely to black out from taking damage.
+#-------------------------------
+[BLUECANARIPLUSHLV1]
+Name = Blue Canari Plush
+NamePlural = Blue Canari Plushies
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A Canari plush holding a blue charm. It slightly boosts your chance of catching Pokémon.
+#-------------------------------
+[BLUECANARIPLUSHLV2]
+Name = Blue Canari Plush
+NamePlural = Blue Canari Plushies
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A Canari plush holding a blue charm. It boosts your chance of catching Pokémon.
+#-------------------------------
+[BLUECANARIPLUSHLV3]
+Name = Blue Canari Plush
+NamePlural = Blue Canari Plushies
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A Canari plush holding a blue charm. It greatly boosts your chance of catching Pokémon.
+#-------------------------------
+[HEATRANITE]
+Name = Heatranite
+NamePlural = Heatranites
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Heatran hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[DARKRANITE]
+Name = Darkranite
+NamePlural = Darkranites
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Darkrai hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[ZERAORITE]
+Name = Zeraorite
+NamePlural = Zeraorites
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Zeraora hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[RAICHUNITEX]
+Name = Raichunite X
+NamePlural = Raichunite Xs
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Raichu hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[RAICHUNITEY]
+Name = Raichunite Y
+NamePlural = Raichunite Ys
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Raichu hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[CHIMECHITE]
+Name = Chimechite
+NamePlural = Chimechites
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Chimecho hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[ABSOLITEZ]
+Name = Absolite Z
+NamePlural = Absolite Zs
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Absol hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[STARAPTITE]
+Name = Staraptite
+NamePlural = Staraptites
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Staraptor hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[GARCHOMPITEZ]
+Name = Garchompite Z
+NamePlural = Garchompite Zs
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Garchomp hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[LUCARIONITEZ]
+Name = Lucarionite Z
+NamePlural = Lucarionite Zs
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Lucario hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[GOLURKITE]
+Name = Golurkite
+NamePlural = Golurkites
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Golurk hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[MEOWSTICITE]
+Name = Meowsticite
+NamePlural = Meowsticites
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Meowstic hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[CRABOMINITE]
+Name = Crabominite
+NamePlural = Crabominites
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Crabominable hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[GOLISOPITE]
+Name = Golisopite
+NamePlural = Golisopites
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Golisopod hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[MAGEARNITE]
+Name = Magearnite
+NamePlural = Magearnites
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Magearna hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[SCOVILLAINITE]
+Name = Scovillainite
+NamePlural = Scovillainites
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Scovillain hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[BAXCALIBRITE]
+Name = Baxcalibrite
+NamePlural = Baxcalibrites
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Baxcalibur hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[TATSUGIRINITE]
+Name = Tatsugirinite
+NamePlural = Tatsugirinites
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Tatsugiri hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[GLIMMORANITE]
+Name = Glimmoranite
+NamePlural = Glimmoranites
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Glimmora hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[HYPERCHERIBERRY]
+Name = Hyper Cheri Berry
+NamePlural = Hyper Cheri Berries
+Pocket = 5
+Price = 0
+Flags = Berry
+Description = A mysterious Berry found in Hyperspace Lumiose. Its spicy kick is great when added to curries.
+#-------------------------------
+[HYPERCHESTOBERRY]
+Name = Hyper Chesto Berry
+NamePlural = Hyper Chesto Berries
+Pocket = 5
+Price = 0
+Flags = Berry
+Description = A mysterious Berry found in Hyperspace Lumiose. Its dry flavor offers a good balance in sweet cream.
+#-------------------------------
+[HYPERPECHABERRY]
+Name = Hyper Pecha Berry
+NamePlural = Hyper Pecha Berries
+Pocket = 5
+Price = 0
+Flags = Berry
+Description = A mysterious Berry found in Hyperspace Lumiose. Its sweet flavor makes it a great ingredient for meringue.
+#-------------------------------
+[HYPERRAWSTBERRY]
+Name = Hyper Rawst Berry
+NamePlural = Hyper Rawst Berries
+Pocket = 5
+Price = 0
+Flags = Berry
+Description = A mysterious Berry found in Hyperspace Lumiose. Its bitter bite works beautifully in chocolate.
+#-------------------------------
+[HYPERASPEARBERRY]
+Name = Hyper Aspear Berry
+NamePlural = Hyper Aspear Berries
+Pocket = 5
+Price = 0
+Flags = Berry
+Description = A mysterious Berry found in Hyperspace Lumiose. Its sour bite makes it perfect for stewing into a confiture.
+#-------------------------------
+[HYPERORANBERRY]
+Name = Hyper Oran Berry
+NamePlural = Hyper Oran Berries
+Pocket = 5
+Price = 0
+Flags = Berry
+Description = A mysterious Berry found in Hyperspace Lumiose. It goes well in curries, meringue, chocolate, and confitures.
+#-------------------------------
+[HYPERPERSIMBERRY]
+Name = Hyper Persim Berry
+NamePlural = Hyper Persim Berries
+Pocket = 5
+Price = 0
+Flags = Berry
+Description = A mysterious Berry found in Hyperspace Lumiose. It goes well in curries, cream, chocolate, and confitures.
+#-------------------------------
+[HYPERLUMBERRY]
+Name = Hyper Lum Berry
+NamePlural = Hyper Lum Berries
+Pocket = 5
+Price = 0
+Flags = Berry
+Description = A mysterious Berry found in Hyperspace Lumiose. It goes well in curries, cream, meringue, and confitures.
+#-------------------------------
+[HYPERSITRUSBERRY]
+Name = Hyper Sitrus Berry
+NamePlural = Hyper Sitrus Berries
+Pocket = 5
+Price = 0
+Flags = Berry
+Description = A mysterious Berry found in Hyperspace Lumiose. It goes well in curries, cream, meringue, and chocolate.
+#-------------------------------
+[HYPERPOMEGBERRY]
+Name = Hyper Pomeg Berry
+NamePlural = Hyper Pomeg Berries
+Pocket = 5
+Price = 0
+Flags = Berry
+Description = A mysterious Berry found in Hyperspace Lumiose. It goes well in curries and meringue.
+#-------------------------------
+[HYPERKELPSYBERRY]
+Name = Hyper Kelpsy Berry
+NamePlural = Hyper Kelpsy Berries
+Pocket = 5
+Price = 0
+Flags = Berry
+Description = A mysterious Berry found in Hyperspace Lumiose. It goes well in cream and chocolate.
+#-------------------------------
+[HYPERQUALOTBERRY]
+Name = Hyper Qualot Berry
+NamePlural = Hyper Qualot Berries
+Pocket = 5
+Price = 0
+Flags = Berry
+Description = A mysterious Berry found in Hyperspace Lumiose. It goes well in meringue and confitures.
+#-------------------------------
+[HYPERHONDEWBERRY]
+Name = Hyper Hondew Berry
+NamePlural = Hyper Hondew Berries
+Pocket = 5
+Price = 0
+Flags = Berry
+Description = A mysterious Berry found in Hyperspace Lumiose. It goes well in cream and confitures.
+#-------------------------------
+[HYPERGREPABERRY]
+Name = Hyper Grepa Berry
+NamePlural = Hyper Grepa Berries
+Pocket = 5
+Price = 0
+Flags = Berry
+Description = A mysterious Berry found in Hyperspace Lumiose. It goes well in curries.
+#-------------------------------
+[HYPERTAMATOBERRY]
+Name = Hyper Tamato Berry
+NamePlural = Hyper Tamato Berries
+Pocket = 5
+Price = 0
+Flags = Berry
+Description = A mysterious Berry found in Hyperspace Lumiose. It goes well in cream.
+#-------------------------------
+[HYPEROCCABERRY]
+Name = Hyper Occa Berry
+NamePlural = Hyper Occa Berries
+Pocket = 5
+Price = 0
+Flags = Berry
+Description = A mysterious Berry found in Hyperspace Lumiose. It goes well in meringue.
+#-------------------------------
+[HYPERPASSHOBERRY]
+Name = Hyper Passho Berry
+NamePlural = Hyper Passho Berries
+Pocket = 5
+Price = 0
+Flags = Berry
+Description = A mysterious Berry found in Hyperspace Lumiose. It goes well in chocolate.
+#-------------------------------
+[HYPERWACANBERRY]
+Name = Hyper Wacan Berry
+NamePlural = Hyper Wacan Berries
+Pocket = 5
+Price = 0
+Flags = Berry
+Description = A mysterious Berry found in Hyperspace Lumiose. It goes well in confitures.
+#-------------------------------
+[HYPERRINDOBERRY]
+Name = Hyper Rindo Berry
+NamePlural = Hyper Rindo Berries
+Pocket = 5
+Price = 0
+Flags = Berry
+Description = A mysterious Berry found in Hyperspace Lumiose. It goes well in curries.
+#-------------------------------
+[HYPERYACHEBERRY]
+Name = Hyper Yache Berry
+NamePlural = Hyper Yache Berries
+Pocket = 5
+Price = 0
+Flags = Berry
+Description = A mysterious Berry found in Hyperspace Lumiose. It goes well in cream.
+#-------------------------------
+[HYPERCHOPLEBERRY]
+Name = Hyper Chople Berry
+NamePlural = Hyper Chople Berries
+Pocket = 5
+Price = 0
+Flags = Berry
+Description = A mysterious Berry found in Hyperspace Lumiose. It goes well in meringue.
+#-------------------------------
+[HYPERKEBIABERRY]
+Name = Hyper Kebia Berry
+NamePlural = Hyper Kebia Berries
+Pocket = 5
+Price = 0
+Flags = Berry
+Description = A mysterious Berry found in Hyperspace Lumiose. It goes well in chocolate.
+#-------------------------------
+[HYPERSHUCABERRY]
+Name = Hyper Shuca Berry
+NamePlural = Hyper Shuca Berries
+Pocket = 5
+Price = 0
+Flags = Berry
+Description = A mysterious Berry found in Hyperspace Lumiose. It goes well in confitures.
+#-------------------------------
+[HYPERCOBABERRY]
+Name = Hyper Coba Berry
+NamePlural = Hyper Coba Berries
+Pocket = 5
+Price = 0
+Flags = Berry
+Description = A mysterious Berry found in Hyperspace Lumiose. It goes well in curries.
+#-------------------------------
+[HYPERPAYAPABERRY]
+Name = Hyper Payapa Berry
+NamePlural = Hyper Payapa Berries
+Pocket = 5
+Price = 0
+Flags = Berry
+Description = A mysterious Berry found in Hyperspace Lumiose. It goes well in cream.
+#-------------------------------
+[HYPERTANGABERRY]
+Name = Hyper Tanga Berry
+NamePlural = Hyper Tanga Berries
+Pocket = 5
+Price = 0
+Flags = Berry
+Description = A mysterious Berry found in Hyperspace Lumiose. It goes well in meringue.
+#-------------------------------
+[HYPERCHARTIBERRY]
+Name = Hyper Charti Berry
+NamePlural = Hyper Charti Berries
+Pocket = 5
+Price = 0
+Flags = Berry
+Description = A mysterious Berry found in Hyperspace Lumiose. It goes well in chocolate.
+#-------------------------------
+[HYPERKASIBBERRY]
+Name = Hyper Kasib Berry
+NamePlural = Hyper Kasib Berries
+Pocket = 5
+Price = 0
+Flags = Berry
+Description = A mysterious Berry found in Hyperspace Lumiose. It goes well in confitures.
+#-------------------------------
+[HYPERHABANBERRY]
+Name = Hyper Haban Berry
+NamePlural = Hyper Haban Berries
+Pocket = 5
+Price = 0
+Flags = Berry
+Description = A mysterious Berry found in Hyperspace Lumiose. It goes well in cream and meringue.
+#-------------------------------
+[HYPERCOLBURBERRY]
+Name = Hyper Colbur Berry
+NamePlural = Hyper Colbur Berries
+Pocket = 5
+Price = 0
+Flags = Berry
+Description = A mysterious Berry found in Hyperspace Lumiose. It goes well in cream and confitures.
+#-------------------------------
+[HYPERBABIRIBERRY]
+Name = Hyper Babiri Berry
+NamePlural = Hyper Babiri Berries
+Pocket = 5
+Price = 0
+Flags = Berry
+Description = A mysterious Berry found in Hyperspace Lumiose. It goes well in chocolate and confitures.
+#-------------------------------
+[HYPERCHILANBERRY]
+Name = Hyper Chilan Berry
+NamePlural = Hyper Chilan Berries
+Pocket = 5
+Price = 0
+Flags = Berry
+Description = A mysterious Berry found in Hyperspace Lumiose. It goes well in curries and chocolate.
+#-------------------------------
+[HYPERROSELIBERRY]
+Name = Hyper Roseli Berry
+NamePlural = Hyper Roseli Berries
+Pocket = 5
+Price = 0
+Flags = Berry
+Description = A mysterious Berry found in Hyperspace Lumiose. It goes well in curries and confitures.
+#-------------------------------
+[CANARIBREAD]
+Name = Canari Bread
+NamePlural = Canari Breads
+Pocket = 2
+Price = 0
+FieldUse = OnPokemon
+BattleUse = OnPokemon
+Flags = Fling_30
+Description = A bun made to look like Canari's face. It can be used to restore 100 HP to a Pokémon.
+#-------------------------------
+[LUMIOSIANBUTTER]
+Name = Lumiosian Butter
+NamePlural = Lumiosian Butters
+PortionName = pack of Lumiosian Butter
+PortionNamePlural = packs of Lumiosian Butter
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = Some of the best butter produced in the Kalos region. Highly sought after by the cooks of Lumiose.
+#-------------------------------
+[NICEBUTTER]
+Name = Nice Butter
+NamePlural = Nice Butters
+PortionName = pack of Nice Butter
+PortionNamePlural = packs of Nice Butter
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A nice pack of butter found in Hyperspace Lumiose. With it, you could make higher quality donuts.
+#-------------------------------
+[GREATBUTTER]
+Name = Great Butter
+NamePlural = Great Butters
+PortionName = pack of Great Butter
+PortionNamePlural = packs of Great Butter
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A great pack of butter found in Hyperspace Lumiose. With it, you could make higher quality donuts.
+#-------------------------------
+[AMAZINGBUTTER]
+Name = Amazing Butter
+NamePlural = Amazing Butters
+PortionName = pack of Amazing Butter
+PortionNamePlural = packs of Amazing Butter
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = An amazing pack of butter found in Hyperspace Lumiose. With it, you could make higher quality donuts.
+#-------------------------------
+[SUPREMEBUTTER]
+Name = Supreme Butter
+NamePlural = Supreme Butters
+PortionName = pack of Supreme Butter
+PortionNamePlural = packs of Supreme Butter
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A supreme pack of butter found in Hyperspace Lumiose. With it, you could make higher quality donuts.
+#-------------------------------
+[HYPERSPACEBUTTER]
+Name = Hyperspace Butter
+NamePlural = Hyperspace Butters
+PortionName = pack of Hyperspace Butter
+PortionNamePlural = packs of Hyperspace Butter
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = The absolute ultimate butter found in Hyperspace Lumiose. With it, you could make higher quality donuts.
+#-------------------------------
+[HOENNIANSALT]
+Name = Hoennian Salt
+NamePlural = Hoennian Salts
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A coarse salt harvested in the Hoenn region. A tiny pinch will impart a wondrous depth of flavor.
+#-------------------------------
+[EPICENOIRE]
+Name = Épice Noire
+NamePlural = Épice Noires
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A mysterious, highly prized spice of the Rust Syndicate that elevates any dish to dreamlike perfection.
+#-------------------------------
+[ARBOLIVAOIL]
+Name = Arboliva Oil
+NamePlural = Arboliva Oils
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = Oil from Paldea's Arboliva, said to taste heavenly. How Corbeau obtained it remains a mystery.
+#-------------------------------

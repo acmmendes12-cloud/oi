@@ -1,0 +1,18 @@
+#-------------------------------
+[INNATESHUFFLER]
+Name = Innate Shuffler
+NamePlural = Innate Shufflers
+Pocket = 2
+Price = 250
+FieldUse = OnPokemon
+Flags = Fling_30
+Description = Re-randomizes the innate abilities of a pokemon. Good luck!
+#-------------------------------
+[INNATEUNLOCKER]
+Name = Innate Unlocker
+NamePlural = Innate Unlockers
+Pocket = 2
+Price = 250
+FieldUse = OnPokemon
+Flags = Fling_30
+Description = Unlocks the next innate ability of a pokemon.

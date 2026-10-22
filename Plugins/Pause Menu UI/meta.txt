@@ -1,0 +1,4 @@
+﻿Name       = Pause Menu UI
+Version    = 1.1
+Essentials = 21.1
+Credits    = LackDeJurane

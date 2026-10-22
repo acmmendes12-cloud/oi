@@ -1,0 +1,19 @@
+#----------------------------------------
+[BLAZIKEN]
+Innates = BLAZE,FLAMEBODY,SPEEDBOOST
+#----------------------------------------
+[AGGRON]
+Innates = FILTER,CLEARBODY
+#----------------------------------------
+[AGGRON_1] #<- Mega Aggron
+Innates = STURDY,WHITESMOKE
+#----------------------------------------
+[METAGROSS]
+Innates1 = SANDVEIL,STURDY,CLEARBODY
+Innates2 = FILTER,CLEARBODY
+Innates3 = PLUS,MINUS,ELECTRICSURGE
+#----------------------------------------
+[BAXCALIBUR]
+Innates1 = BLAZEFROST,AQUATIC,CLEARBODY
+Innates2 = 
+Innates3 = 
